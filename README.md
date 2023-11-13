@@ -1,5 +1,7 @@
 # MRCM Sport Meet Application
 
+<img src="https://raw.githubusercontent.com/Dark-Waves/MRCM-Sport-Meet/main/image.png" alt="mrcm sport web screenshot"/>
+
 Welcome to the official repository of the Mahinda Rajapaksha College Matara (MRCM) Sport Meet Application. This project is aimed at revolutionizing how we conduct, participate in, and experience our annual sports meet.
 
 ## About the App
